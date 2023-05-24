@@ -1,5 +1,5 @@
 # Algoritmos
-Una colección de herramientas en las que he construido algoritmos pre-diseñados para el funcionamiento de las mismas.
+Una colección de algoritmos desarrollados en Python.
 
 # Luhn.py / Algoritmo de Luhn (Uno de mis preferidos) 😋
 

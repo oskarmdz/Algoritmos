@@ -1,5 +1,4 @@
 # Algoritmos
-Una colección de algoritmos desarrollados en Python.
 
 # luhn.py / Algoritmo de Luhn (Uno de mis preferidos) 😋
 
